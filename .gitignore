@@ -1,0 +1,23 @@
+# Keil build artifacts
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.axf
+*.dep
+*.htm
+*.bak
+*.ddk
+*.fed
+*.npb
+*.Opt
+*.uvguix.*
+*.Dbg
+*.uvoptx
+JLinkLog.txt
+*.ini
+Listings/
+Objects/
+*.scvd
+*.uvprojx.bak
